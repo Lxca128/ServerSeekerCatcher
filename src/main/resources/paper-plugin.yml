@@ -1,0 +1,7 @@
+name: ServerSeekerCatcher
+version: '1.0-SNAPSHOT'
+main: de.lxca.serverSeekerCatcher.Main
+api-version: '1.21'
+prefix: ServerSeekerCatcher
+load: STARTUP
+authors: [ Lxca128 ]
